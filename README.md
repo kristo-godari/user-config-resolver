@@ -54,7 +54,7 @@ Currently only json config is supported, but in the future other implementations
     <groupId>org.godari.config-resolver</groupId>
     <artifactId>config-resolver-json</artifactId>
     <version>1.0.0</version>
-</dependency
+</dependency>
 ```
 <b>Define Configuration Override Rules:</b> Define your configuration override rules by specifying user groups, 
 custom expressions, and the properties to override in your configuration JSON.
